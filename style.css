@@ -2,3 +2,20 @@
   display: flex;
   background-color: rgb(50, 167, 145);
 }
+
+#trybewarts-login {
+  position: static;
+  text-align: right;
+  display: flex;
+  flex-direction: row;
+}
+
+#trybewarts-header-title {
+  display: flex;
+  text-align: center;
+  margin: 40px 0;
+  padding: 50px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
