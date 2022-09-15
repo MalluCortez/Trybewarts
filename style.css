@@ -39,5 +39,10 @@
   display: flex;
   flex-direction: column;
   margin-top: 20px;
+  margin-bottom: 5px;
 }
 
+.subject {
+  display: flexbox;
+  margin-top: 10px;
+}
