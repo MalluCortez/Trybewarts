@@ -34,3 +34,10 @@
   display: flex;
   float: right;
 }
+
+#label-family {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
