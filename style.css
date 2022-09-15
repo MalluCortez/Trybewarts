@@ -34,8 +34,3 @@
   display: flex;
   float: right;
 }
-
-#input-lastname {
-  display: flex;
-  flex-direction: row;
-}
