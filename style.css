@@ -43,6 +43,11 @@
 }
 
 .subject {
-  display: flexbox;
+  display: fle;
   margin-top: 10px;
+}
+
+#evaluation {
+  margin-top: 10px;
+  display: flex;
 }
