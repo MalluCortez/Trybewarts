@@ -1,13 +1,19 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Projeto Trybewarts Wizarding School! 🧙
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Nada nessa vida acontece automagicamente. Saber como realizar feitiços de posicionamento, conjurar formulários e principalmente criar ilusões de responsividade são habilidades imprescindíveis na sua carreira de pessoa ~feiticeira~ desenvolvedora.
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+Neste projeto, desenvolvi uma página de formulário da Escola de Magia de Trybewarts, em que as pessoas estudantes poderão enviar seus feedbacks sobre ela. O tema desse projeto é baseado na obra 'Harry Potter', de J. K. Rowling, já que programar é o mais próximo que podemos chegar de algo verdadeiramente mágico!
+
+# O que foi avaliado?
+
+- Aderência do código à especificação. O programa deve se comportar como especificado na próxima seção.
+
+- Organização do seu código. Quebre seu código em funções. Prefira funções pequenas, simples e bem definidas a funções grandes e complexas.
+
+- A capacidade de estruturar corretamente uma página HTML. Utilize as tags corretas nos contextos apropriados. Feche sempre suas tags e aninhe-as corretamente.
+
+- Estruturação do seu CSS. Evite repetição. Combine e agrupe classes CSS bem definidas.
+
+# Stacks Utilizadas
+
+- HTML, CSS e JavaScript
